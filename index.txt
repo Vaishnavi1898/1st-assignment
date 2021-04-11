@@ -1,5 +1,0 @@
-<html>
-<body>Good Morning and have a nice day..
-This is my 1st assignment and today is last day to submit this assignment.
-</body>
-</html>
